@@ -1,0 +1,1 @@
+# Vanilla JS starter with Babel and Webpack
